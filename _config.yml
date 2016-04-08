@@ -1,0 +1,28 @@
+name: EVOLUX
+favicon: null
+layout_spectrum: 0.24906869302503765
+typography_spectrum: 0.5252328037749976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8352084397338331
+  lightness: 0.8920574616640806
+  saturation: 0.7843138743191957
+  rhythmicContrast: 0.20610614377073944
+purpose: []
